@@ -164,8 +164,8 @@ p {
 }
 
 .welcome-container #profile-pic {
-  width: 75px;
-  height: 75px;
+  width: 70px;
+  height: 70px;
   object-fit: cover;
   /* border-radius: 50%; */
   overflow: hidden;
